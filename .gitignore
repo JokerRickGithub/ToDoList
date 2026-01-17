@@ -1,0 +1,21 @@
+# Python编译后的文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境（后面学了虚拟环境一定要加）
+venv/
+env/
+.env
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.bak
+
+# IDE的配置文件（比如PyCharm/VSCode）
+.idea/
+.vscode/
+*.swp
